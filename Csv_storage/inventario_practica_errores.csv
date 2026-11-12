@@ -1,0 +1,104 @@
+id,producto,cantidad,precio,disponibilidad,fecha_ingreso,proveedor,categoria
+4,Monitor 24 pulgadas,18,159.99,True,2024-01-22,CompuMarket,Electronics
+5,Teclado mecanico,,74.5,True,2024-02-03,KeyTech,Accessories
+6,Mouse inalambrico,50,19.99,True,2024-02-14,KeyTech,Accessories
+7,Impresora laser,7,229.0,False,2024-03-11,PrintSolutions,Electronics
+8,Tablet 10 pulgadas,14,299.99,True,2024-03-18,MobileWorld Ltd.,Electronics
+9,Escritorio,9,25,True,2024-04-02,FurnitureCo,Furniture
+10,Lampara LED,40,15.75,True,2024-04-09,HomeLight,Home
+11,Audifonos Bluetooth,22,59.9,True,2024-04-17,SoundPlus,Electronics
+12,Disco SSD 1TB,16,89.99,True,2024-05-01,DataStore,Storage
+13,Memoria USB 64GB,75,8.99,si,2024-05-08,DataStore,Storage
+14,Webcam HD,11,39.99,False,2024-05-16,VisionTech,Accessories
+15,Silla ergonomica,12,210.0,True,2024-05-23,FurnitureCo,Furniture
+16,Router WiFi 6,13,119.99,True,2024-06-04,NetWorld,Networking
+17,Cable HDMI 2m,100,6.5,True,2024-15-40,CableExpress,Accessories
+18,Bocina portatil,27,34.99,True,2024-06-20,SoundPlus,Audio
+19,Microfono USB,8,69.99,False,2024-07-01,AudioLab,Audio
+20,Tarjeta grafica,5,599.99,True,2024-07-10,CompuMarket,Components
+21,   ,6,279.99,True,2024-07-19,CompuMarket,Components
+22,Memoria RAM 16GB,24,42.0,True,2024-07-27,DataStore,Components
+23,Fuente de poder 650W,10,79.99,True,2024-08-05,CompuMarket,Components
+24,Gabinete ATX,7,95.0,True,2024-08-13,CompuMarket,Components
+25,Ventilador de CPU,-8,25.5,True,2024-08-21,CoolTech,Components
+26,No-break 1000VA,4,139.99,False,2024-08-29,PowerSafe,Power
+27,Proyector,3,450.0,True,2024-09-06,VisionTech,Electronics
+28,Escaner,6,129.99,True,2024-09-14,PrintSolutions,Electronics
+29,Laptop stand,21,-19.99,True,2024-09-22,OfficePlus,Accessories
+30,Mochila para laptop,17,39.5,True,2024-10-01,OfficePlus,Accessories
+31,Papel carta,200,5.99,True,2024-10-09,OfficePlus,Office
+32,Marcadores paquete 12,45,7.25,True,2024-10-17,SchoolSupply,Office
+33,Cuaderno profesional,90,3.5,True,2024-10-25,,Office
+34,Engrapadora,26,8.75,True,2024-11-02,SchoolSupply,Office
+35,Calculadora cientifica,14,22.99,True,2024-11-10,EduTech,Office
+36,Disco duro externo 2TB,9,104.99,True,2024-11-18,DataStore,Storage
+37,Switch 8 puertos,12,49.99,True,2024-11-26,NetWorld,electronics
+38,Punto de acceso WiFi,5,89.99,False,2024-12-04,NetWorld,Networking
+39,Smartwatch,20,129.99,True,2024-12-12,MobileWorld Ltd.,Wearables
+40,Cargador USB-C,60,14.99,True,2024-12-20,MobileWorld Ltd.,Accessories
+40,Power bank 20000mAh,31,29.99,True,2025-01-05,MobileWorld Ltd.,Accessories
+42,Funda para tablet,42,12.5,True,2025-01-13,MobileWorld Ltd.,Accessories
+43,Monitor 27 pulgadas,8,249.99,True,2025-01-21,CompuMarket,Electronics
+44,Sofa de oficina,4,320.0,False,2025-01-29,FurnitureCo,Furniture
+45,Estante metalico,muchos,75.0,True,2025-02-06,FurnitureCo,Furniture
+46,Archivero,6,110.0,True,2025-02-14,OfficePlus,Furniture
+47,Pizarron blanco,10,55.99,True,2025-02-22,SchoolSupply,Office
+48,Bateria recargable AA,80,2.99,True,2025-03-02,PowerSafe,Power
+49,Multicontacto,35,11.99,TRUE,2025-03-10,PowerSafe,Power
+50,Adaptador USB-C,28,9.99,True,2025-03-18,CableExpress,Accessories
+51,Cable Ethernet 5m,55,4.5,True,2025-03-26,NetWorld,Networking
+52,Lector de tarjetas,13,16.99,True,2025-04-03,DataStore,Accessories
+53,Tripie para camara,7,32.0,False,ayer,VisionTech,Photography
+54,Camara digital,3,399.99,True,2025-04-19,VisionTech,Photography
+55,Aro de luz,18,24.99,True,2025-04-27,VisionTech,Photography
+56,Tableta digitalizadora,9,89.99,True,2025-05-05,DesignPro,Accessories
+57,Lapiz digital,25,,True,2025-05-13,DesignPro,Accessories
+58,Impresora 3D,2,699.0,False,2025-05-21,MakerStore,Machines
+59,Filamento PLA 1kg,38,21.99,True,2025-05-29,MakerStore,Materials
+60,Filamento PETG 1kg,24,25.99,True,2025-06-06,MakerStore,Materials
+61,Cable Ethernet 5m,15,39.99,True,2025-06-14,ElectroLab,Components
+62,Placa ESP32,29,8.99,True,2025-06-22,ElectroLab,Components
+63,Sensor ultrasonico,70,3.25,True,2025-06-30,ElectroLab,Components
+64,Protoboard,44,5.5,True,2025-07-08,ElectroLab,Components
+65,Resistencias surtidas,999999,1.99,True,2025-07-16,ElectroLab,Components
+66,Capacitores surtidos,95,2.49,True,2025-07-24,ElectroLab,Components
+67,Motor DC,33,6.99,True,2025-08-01,ElectroLab,Components
+68,Driver de motor,17,7.99,True,2025-08-09,ElectroLab,Components
+69,Bomba de agua,5,18.5,False,2025-08-17,N/A,Tools
+70,Termometro digital,20,12.99,True,2025-08-25,AquaTech,Tools
+71,Taladro electrico,8,89.99,True,2025-09-02,ToolHouse,Tools
+72,Juego de destornilladores,16,19.99,True,2025-09-10,ToolHouse,Tools
+73,Pinzas de precision,23,8.99,True,2025-09-18,ToolHouse,  Tools  
+74,Cinta aislante,65,1.5,True,2025-09-26,ToolHouse,Tools
+75,Guantes de trabajo,30,6.75,True,2025-10-04,ToolHouse,Safety
+76,Casco de seguridad,12,18.99,True,2025-10-12,SafeWork,Safety
+77,Lentes de proteccion,40,4.99,tal vez,2025-10-20,SafeWork,Safety
+78,Extintor,6,45.0,False,2025-10-28,SafeWork,Safety
+79,Botiquin,9,27.5,True,2025-11-05,SafeWork,Safety
+80,Silla plegable,22,24.99,True,2025-11-13,FurnitureCo,Furniture
+81,Mesa plegable,13,49.99,True,2026/13/01,FurnitureCo,Furniture
+82,Ventilador de escritorio,18,22.0,True,2025-11-29,HomeLight,Home
+83,Calefactor,5,39.99,False,2025-12-07,HomeLight,Home
+84,Aspiradora,7,119.99,True,2025-12-15,HomeLight,Home
+,Cafetera,10,54.99,True,2025-12-23,HomeLight,Appliances
+86,Licuadora,14,32.99,True,2026-01-04,HomeLight,Appliances
+87,Microondas,4,99.99,False,2026-01-12,HomeLight,Appliances
+88,Refrigerador mini,3,189.99,True,2026-01-20,HomeLight,Appliances
+89,Balanza digital,19,"12,50",True,2026-01-28,AquaTech,Tools
+90,Etiquetadora,8,42.5,True,2026-02-05,OfficePlus,Office
+91,Lector codigo barras,6,65.0,True,2026-02-13,OfficePlus,Electronics
+92,Cajon de dinero,4,79.99,False,2026-02-21,OfficePlus,Electronics
+93,Terminal punto de venta,4.5,149.99,True,2026-03-01,OfficePlus,Electronics
+94,Papel termico,120,2.25,True,2026-03-09,OfficePlus,Office
+95,Tinta negra,27,18.99,True,2026-03-17,PrintSolutions,Supplies
+96,Toner magenta,9,49.99,True,2026-03-25,PrintSolutions,Supplies
+97,Laptop,34,5.99,True,2026-04-02,CoolTech,Components
+98,Hub USB 4 puertos,21,13.99,True,2026-04-10,CableExpress,Accessories
+99,Base refrigerante laptop,15,26.99,True,2026-04-18,CoolTech,Accessories
+100,Bocina de escritorio,12,31.99,True,2026-04-26,SoundPlus,Audio
+101,"Mouse gamer, RGB",12,35.99,true,2026-06-01,"Gamer, Inc.",Accessories
+102,Producto con columnas de mas,5,10.00,true,2026-06-02,ProveedorX,Electronics,EXTRA
+103,Fila incompleta,7,15.00,true,,,
+104,Precio con simbolo,3,$49.99,true,2026-06-03,ProveedorY,Accessories
+105,"Comillas mal cerradas,8,12.00,true,2026-06-04,ProveedorZ,Office
+",,,,,,
