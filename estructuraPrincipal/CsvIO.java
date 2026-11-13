@@ -13,7 +13,7 @@ public class CsvIO {
         return parsear(decodificar(Files.readAllBytes(ruta)));
     }
 
-    // Intenta UTF-8; si el archivo no lo es (ej. Superstore), cae a Windows-1252.
+    // Intenta UTF-8  si el archivo no lo es (ej. Superstore), cae a Windows-1252.
     private static String decodificar(byte[] bytes) {
         try {
             return StandardCharsets.UTF_8.newDecoder()

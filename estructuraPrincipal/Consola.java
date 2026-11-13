@@ -2,6 +2,7 @@ package estructuraPrincipal;
 
 import java.nio.file.*;
 import java.util.*;
+/* Clase principal para la interfaz de en la consola quedara obsoleta */
 
 public class Consola { // DATAFORGE
     private static final int ANCHO_MAX = 14;     // ancho máximo de celda en pantalla
